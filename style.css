@@ -13,6 +13,31 @@ textarea {
   padding: 10px;
 }
 
+#currentDay {
+  border: 1px solid #06AED5;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  background-color: #06AED5;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  max-width: 50%;
+  margin: auto;
+  margin-top: 25px;
+}
+
+#displayJsDate {
+  border: 1px solid #06AED5;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  background-color: white;
+  text-align: center;
+  padding: 25px;
+  max-width: 50%;
+  margin: auto;
+  margin-bottom: 0px;
+}
+
 .jumbotron {
   text-align: center;
   background-color: transparent;
